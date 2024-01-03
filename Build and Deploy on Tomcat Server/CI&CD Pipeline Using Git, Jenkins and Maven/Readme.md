@@ -1,3 +1,7 @@
+We Set up an Ec2 Instance , Logged in and Set up Java. I Connected to Ec2 instance using Mobaxterm.
+
+We installed Java and Jenkins using Redhat Jenkins Procedure
+
 A. we used a java code which is already available in our github account
 
 B. we set up jenkins and maven as well
