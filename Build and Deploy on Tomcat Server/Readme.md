@@ -1,6 +1,6 @@
 # Objective
 
-The objective of this project is to establish a robust CI/CD pipeline using GitHub, Jenkins, Maven, and Tomcat. The process involves the following steps:
+The objective of this project is to establish a CI/CD pipeline using GitHub, Jenkins, Maven, and Tomcat. The process involves the following steps:
 
 ## 1. Jenkins Setup
 Begin by setting up Jenkins to serve as the central hub for our CI/CD pipeline.
