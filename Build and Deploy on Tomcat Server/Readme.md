@@ -1,4 +1,4 @@
-Setup CI/CD with Github, Jenkins,Maven and Tomcat
+Objective : Setup CI/CD with Github, Jenkins,Maven and Tomcat
 we start of by setting up Jenkins 
 we proceed to setup and configure Maven and Git 
 Then we Setup Tomcat Server 
